@@ -30,7 +30,6 @@ DTIAdapt/
 │   ├── 03_training.ipynb
 │   └── 04_evaluation.ipynb
 ├── models/                ← saved checkpoints
-├── scripts/               ← standalone .py scripts (optional)
 ├── results/               ← plots, metrics CSVs
 ├── README.md
 └── requirements.txt
