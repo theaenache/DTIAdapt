@@ -19,21 +19,14 @@ DTIAdapt is a domain-adaptive Drug–Target Interaction (DTI) prediction framewo
 ## Repository Structure
 
 DTIAdapt/
+
 ├── datasets/         # Data loaders and featurizers
-
 ├── models.py         # Model definitions (TripleBranchCATDTI)
-
 ├── loss.py           # Custom loss functions (domain adaptation, transfer gain)
-
 ├── loader.py         # Data loading utilities
-
 ├── main.py           # Training and evaluation scripts
-
 ├── args.py           # Argument parser for running experiments
-
 ├── records.txt       # Training logs and performance records
-
 ├── requirements.txt  # Python dependencies
-
 └── README.md         # This documentation
 
